@@ -1,0 +1,7 @@
+pandas~=2.2.2==None
+numpy~=1.26.4==None
+statsmodels~=0.14.1==None
+matplotlib~=3.8.3==None
+seaborn~=0.13.2==None
+scipy~=1.13.0==None
+jupyter==1.0.0
